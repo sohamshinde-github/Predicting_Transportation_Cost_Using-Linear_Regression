@@ -7,7 +7,7 @@ https://www.edx.org/course/supply-chain-analytics
 
 ### Program Steps:
 1. Imported libraries numpy, pandas, matplotlib, seaborn, sklearn
-2. Read csv file in pyhton 3
+2. Read csv file in python 3
 3. Analyzed the data and found that the distance and cost per load is highly related
 4. Imported train_test_split from the sklearn.model_selection
 5. Splitted data into training and testing data
